@@ -7,3 +7,4 @@ This contains:
 - pictures
 - itinerary
 - camping
+- hot dogs
